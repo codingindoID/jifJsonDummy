@@ -2,17 +2,17 @@
   "sliders": [
     {
       "id": 1,
-      "source": "/sliders/1.png",
+      "source": "https://raw.githubusercontent.com/codingindoID/jifJsonDummy/master/assets/sliders/1.png",
       "desc": ""
     },
     {
       "id": 2,
-      "source": "https://www.jifbw.com/wp-content/uploads/2025/10/DSC09077.jpg",
+      "source": "https://raw.githubusercontent.com/codingindoID/jifJsonDummy/master/assets/sliders/2.png",
       "desc": "inhouse showroom"
     },
     {
       "id": 3,
-      "source": "/sliders/2.png",
+      "source": "https://raw.githubusercontent.com/codingindoID/jifJsonDummy/master/assets/sliders/3.png",
       "desc": ""
     }
   ]
