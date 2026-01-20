@@ -8,7 +8,7 @@
       "badge": "about",
       "title": "About JIFBW 2026",
       "themeBg": true,
-      "pathLink": ""
+      "pathLink": "/about"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "badge": "highlight",
       "title": "Why Visit Us?",
       "themeBg": true,
-      "pathLink": ""
+      "pathLink": "/exhibitor"
     }
   ]
 }
