@@ -1,0 +1,204 @@
+{
+  "sponsors": [
+    {
+      "id": 1,
+      "type": 1,
+      "name": "BI",
+      "source": "logo/sponsor/bank-indonesia-sponsor.jpg"
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "name": "umkm",
+      "source": "logo/sponsor/umkm-gayeng-sponsor.jpg"
+    },
+    {
+      "id": 3,
+      "type": 2,
+      "name": "kalingga",
+      "source": "logo/sponsor/kalingga-keling-jati-sponsor.jpg"
+    },
+    {
+      "id": 4,
+      "type": 2,
+      "name": "pos",
+      "source": "logo/sponsor/pos-indonesia-sponsor.jpg"
+    },
+    {
+      "id": 5,
+      "type": 2,
+      "name": "saluyu",
+      "source": "logo/sponsor/sinar-saluyu-sponsor.jpg"
+    },
+    {
+      "id": 6,
+      "type": 2,
+      "name": "bankJateng",
+      "source": "logo/sponsor/bank-jateng-sponsor.jpg"
+    },
+    {
+      "id": 7,
+      "type": 2,
+      "name": "ekamant",
+      "source": "logo/sponsor/ekamant-sponsor.jpg"
+    },
+    {
+      "id": 8,
+      "type": 2,
+      "name": "mandiri",
+      "source": "logo/sponsor/bank-mandiri-sponsor.jpg"
+    }
+  ],
+  "supported": [
+    {
+      "id": 1,
+      "name": "kemenlu",
+      "source": "logo/supported/kemenlu.jpg"
+    },
+    {
+      "id": 2,
+      "name": "kemenindustri",
+      "source": "logo/supported/kemenindustri.jpg"
+    },
+    {
+      "id": 3,
+      "name": "kemendag",
+      "source": "logo/supported/kemenparekraf.jpg"
+    },
+    {
+      "id": 4,
+      "name": "kemendag",
+      "source": "logo/supported/kemendag.jpg"
+    },
+    {
+      "id": 5,
+      "name": "kemenkop",
+      "source": "logo/supported/Kementrian-KOPUKM-Republik-Indonesia.jpg"
+    },
+    {
+      "id": 6,
+      "name": "pemprov",
+      "source": "logo/supported/PEMPROV-JATENG.jpg"
+    },
+    {
+      "id": 7,
+      "name": "pemda",
+      "source": "logo/supported/PEMDA-Jepara.jpg"
+    },
+    {
+      "id": 8,
+      "name": "kadin",
+      "source": "logo/supported/Kadin-Jepara.jpg"
+    },
+    {
+      "id": 9,
+      "name": "asmindo",
+      "source": "logo/supported/ASMINDO.jpg"
+    },
+    {
+      "id": 10,
+      "name": "himki",
+      "source": "logo/supported/HIMKI.jpg"
+    },
+    {
+      "id": 11,
+      "name": "hipmi",
+      "source": "logo/supported/HIPMI.jpg"
+    },
+    {
+      "id": 12,
+      "name": "hdmi",
+      "source": "logo/supported/HDMI.jpg"
+    },
+    {
+      "id": 13,
+      "name": "apkj",
+      "source": "logo/supported/APKJ.jpg"
+    },
+    {
+      "id": 14,
+      "name": "ifpf",
+      "source": "logo/supported/IFPF.jpg"
+    },
+    {
+      "id": 15,
+      "name": "hipka",
+      "source": "logo/supported/HIPKA-JPR.jpg"
+    },
+    {
+      "id": 16,
+      "name": "asephi",
+      "source": "logo/supported/ASEPHI.jpg"
+    },
+    {
+      "id": 17,
+      "name": "apindo",
+      "source": "logo/supported/APINDO.jpg"
+    },
+    {
+      "id": 18,
+      "name": "tda",
+      "source": "logo/supported/TDA-Jepara.jpg"
+    },
+    {
+      "id": 19,
+      "name": "phri",
+      "source": "logo/supported/PHRI.jpg"
+    },
+    {
+      "id": 20,
+      "name": "plj",
+      "source": "logo/supported/Pengusaha-Las-Jepara.jpg"
+    },
+    {
+      "id": 21,
+      "name": "pengukir",
+      "source": "logo/supported/Paguyuban-Pengukir-Sungging-Prabangkara.jpg"
+    },
+    {
+      "id": 22,
+      "name": "karyalogam",
+      "source": "logo/supported/Karya-Logam-Bersatu-Indonesia.jpg"
+    },
+    {
+      "id": 23,
+      "name": "pelestariukir",
+      "source": "logo/supported/Yayasan-Pelestari-Ukir-Jepara.jpg"
+    },
+    {
+      "id": 24,
+      "name": "pmj",
+      "source": "logo/supported/PMJ.jpg"
+    },
+    {
+      "id": 25,
+      "name": "unisnu",
+      "source": "logo/supported/unisnu-jepara.jpg"
+    },
+    {
+      "id": 26,
+      "name": "politeknik",
+      "source": "logo/supported/Politeknik-Balekambang.jpg"
+    },
+    {
+      "id": 27,
+      "name": "dp",
+      "source": "logo/supported/dp.jpg"
+    },
+    {
+      "id": 28,
+      "name": "dkv",
+      "source": "logo/supported/DKV-UNISNU.jpg"
+    }
+  ],
+  "hosted": {
+    "id": 1,
+    "name": "Konsorsium Jepara Gerak",
+    "source": "logo/Logo-Konsorsium-Jepara-Gerak.jpg"
+  },
+  "organized": {
+    "id": 1,
+    "name": "PT. Jepara Gerak Production",
+    "source": "logo/Logo-Jepara-Gerak-Production.jpg"
+  }
+}

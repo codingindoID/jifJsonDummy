@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Modern Teak Sofa",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?q=80&w=800&auto=format&fit=crop",
+    "description": "High quality teak wood sofa with modern design."
+  },
+  {
+    "id": 2,
+    "title": "JIFBW 2024 Opening",
+    "category": "Events",
+    "image": "https://images.unsplash.com/photo-1540575861501-7ce0e224200d?q=80&w=800&auto=format&fit=crop",
+    "description": "The grand opening ceremony of JIFBW 2024."
+  },
+  {
+    "id": 3,
+    "title": "Classic Dining Table",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1577145946459-39a587ed523f?q=80&w=800&auto=format&fit=crop",
+    "description": "Handcrafted classic dining table from Jepara artisans."
+  },
+  {
+    "id": 4,
+    "title": "Furniture Showroom",
+    "category": "Showroom",
+    "image": "https://images.unsplash.com/photo-1538688547244-09950005232a?q=80&w=800&auto=format&fit=crop",
+    "description": "A glimpse into our exhibition showroom."
+  },
+  {
+    "id": 5,
+    "title": "Minimalist Cabinet",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1595428774223-ef04a127a271?q=80&w=800&auto=format&fit=crop",
+    "description": "Simple yet elegant cabinet for modern homes."
+  },
+  {
+    "id": 6,
+    "title": "Interntional Buyers Meeting",
+    "category": "Events",
+    "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?q=80&w=800&auto=format&fit=crop",
+    "description": "B2B meeting between local artisans and international buyers."
+  },
+  {
+    "id": 7,
+    "title": "Outdoor Furniture Set",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?q=80&w=800&auto=format&fit=crop",
+    "description": "Durable and stylish outdoor furniture for your garden."
+  },
+  {
+    "id": 8,
+    "title": "Exhibition Hall A",
+    "category": "Showroom",
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=800&auto=format&fit=crop",
+    "description": "Main exhibition hall showcasing various furniture products."
+  },
+  {
+    "id": 9,
+    "title": "Traditional Wood Carving",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1581428982868-e410dd047a90?q=80&w=800&auto=format&fit=crop",
+    "description": "Exquisite hand-carved wood details, a hallmark of Jepara furniture."
+  },
+  {
+    "id": 10,
+    "title": "JIFBW Networking Dinner",
+    "category": "Events",
+    "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?q=80&w=800&auto=format&fit=crop",
+    "description": "A night of networking and collaboration between global industry leaders."
+  },
+  {
+    "id": 11,
+    "title": "Luxury Master Bedroom",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7eaa511?q=80&w=800&auto=format&fit=crop",
+    "description": "Elegant bedroom set featuring premium mahogany wood."
+  },
+  {
+    "id": 12,
+    "title": "Design Workshop",
+    "category": "Events",
+    "image": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?q=80&w=800&auto=format&fit=crop",
+    "description": "Interactive workshop on sustainable furniture design."
+  }
+]

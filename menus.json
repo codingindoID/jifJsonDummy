@@ -1,0 +1,77 @@
+{
+  "navbar": [
+    {
+      "name": "Home",
+      "path": "/home",
+      "children": []
+    },
+    {
+      "name": "About",
+      "path": "/about",
+      "children": []
+    },
+    {
+      "name": "Exhibitor",
+      "path": "/exhibitor",
+      "children": []
+    },
+    {
+      "name": "Visitor",
+      "path": "/visitor",
+      "children": []
+    },
+    {
+      "name": "Help",
+      "path": "/help",
+      "children": []
+    }
+  ],
+
+  "homeGrid": [
+    {
+      "id": 1,
+      "name": "Exhibitor",
+      "icon": "exhibitor.png",
+      "path": "/exhibitor"
+    },
+    {
+      "id": 2,
+      "name": "Furniture Map",
+      "icon": "map.png",
+      "path": "/maps"
+    },
+    {
+      "id": 3,
+      "name": "Enjoy Jepara",
+      "icon": "enjoy-jepara.png",
+      "path": "/enjoy-jepara"
+    },
+    { "id": 4, "name": "Gallery", "icon": "gallery.png", "path": "/gallery" },
+    {
+      "id": 5,
+      "name": "Logistic",
+      "icon": "logistic.png",
+      "path": "/logistic"
+    },
+    {
+      "id": 6,
+      "name": "Products",
+      "icon": "product.png",
+      "path": "/products"
+    },
+    { "id": 7, "name": "News", "icon": "news.png", "path": "/news" },
+    { "id": 8, "name": "Events", "icon": "event.png", "path": "/events" },
+    {
+      "id": 9,
+      "name": "Hospitality",
+      "icon": "exhibitor.png",
+      "path": "/hospitality"
+    },
+    {
+      "id": 10,
+      "name": "Contact Us",
+      "icon": "contact.png",
+      "path": "/contacts"
+    }
+  ]
+}
