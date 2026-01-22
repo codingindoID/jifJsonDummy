@@ -1,0 +1,44 @@
+{
+  "featured": {
+    "id": 1,
+    "title": "JIFBW 2026: Ushering in a New Era of Sustainable Craftsmanship",
+    "category": "Exhibition News",
+    "date": "Oct 12, 2025",
+    "image": "https://images.unsplash.com/photo-1540575861501-7ce0e224200d?q=80&w=1200&auto=format&fit=crop",
+    "excerpt": "The upcoming Jepara International Furniture & Biennale Week is set to be the largest city-based exhibition in Southeast Asia, focusing on eco-friendly wood sourcing and authentic heritage."
+  },
+  "news": [
+    {
+      "id": 2,
+      "title": "The Rise of Scandinavian-Jepara Fusion Design",
+      "category": "Design Trends",
+      "date": "Sep 28, 2025",
+      "image": "https://images.unsplash.com/photo-1595428774223-ef04a127a271?q=80&w=600&auto=format&fit=crop",
+      "description": "Discover how local artisans are blending minimalist Nordic aesthetics with intricate Indonesian carving techniques."
+    },
+    {
+      "id": 3,
+      "title": "Logistics Boom: New Export Routes from Tanjung Emas",
+      "category": "Industry",
+      "date": "Sep 15, 2025",
+      "image": "https://images.unsplash.com/photo-1577145946459-39a587ed523f?q=80&w=600&auto=format&fit=crop",
+      "description": "Improved infrastructure around Central Java is significantly reducing shipping times for international furniture buyers."
+    },
+    {
+      "id": 4,
+      "title": "Traditional Carving Techniques: A Vanishing Art Recovered",
+      "category": "Culture",
+      "date": "Aug 22, 2025",
+      "image": "https://images.unsplash.com/photo-1581428982868-e410dd047a90?q=80&w=600&auto=format&fit=crop",
+      "description": "Young apprentices in Jepara are revitalizing 500-year-old carving styles for the luxury global market."
+    },
+    {
+      "id": 5,
+      "title": "JIFBW 2026 Digital Portal: Now Open for Visitor Pre-Registration",
+      "category": "Announcement",
+      "date": "Aug 05, 2025",
+      "image": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?q=80&w=600&auto=format&fit=crop",
+      "description": "Get early access to exhibitor catalogs and showroom locations by registering through our new hybrid portal."
+    }
+  ]
+}

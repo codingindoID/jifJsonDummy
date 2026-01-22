@@ -11,16 +11,11 @@
       "icon": "M12 6a2 2 0 100 4 2 2 0 000-4"
     }
   ],
-  "locations": [
-    {
-      "id": 1,
-      "name": "Hall A",
-      "icon": "M12 6a2 2 0 100 4 2 2 0 000-4"
-    },
-    {
-      "id": 2,
-      "name": "Hall B",
-      "icon": "M12 6a2 2 0 100 4 2 2 0 000-4"
-    }
+  "newsCategory": [
+    "All News",
+    "Exhibition News",
+    "Design Trends",
+    "Industry",
+    "Culture"
   ]
 }
