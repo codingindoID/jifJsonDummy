@@ -1,12 +1,4 @@
 {
-  "featured": {
-    "id": 1,
-    "title": "JIFBW 2026: Ushering in a New Era of Sustainable Craftsmanship",
-    "category": "Exhibition News",
-    "date": "Oct 12, 2025",
-    "image": "https://images.unsplash.com/photo-1540575861501-7ce0e224200d?q=80&w=1200&auto=format&fit=crop",
-    "excerpt": "The upcoming Jepara International Furniture & Biennale Week is set to be the largest city-based exhibition in Southeast Asia, focusing on eco-friendly wood sourcing and authentic heritage."
-  },
   "news": [
     {
       "id": 2,
