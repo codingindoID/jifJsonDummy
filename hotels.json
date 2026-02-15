@@ -1,0 +1,44 @@
+{ 
+    "data" : [
+        {
+    "id": 1,
+    "title": "The Alana Hotel & Convention Center",
+    "location": "Sleman, Yogyakarta",
+    "price": 1250000,
+    "type": "4",
+    "badge": "Popular",
+    "image":
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 2,
+    "title": "Pullman Jakarta Central Park",
+    "location": "West Jakarta, Jakarta",
+    "price": 2400000,
+    "type": "4",
+    "badge": "Luxury",
+    "image":
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 3,
+    "title": "Ocean View Residence Resort",
+    "location": "Tahunan, Jepara",
+    "price": 950000,
+    "type": "3",
+    "badge": "Best Value",
+    "image":
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 4,
+    "title": "InterContinental Bali Resort",
+    "location": "Jimbaran, Bali",
+    "price": 4800000,
+    "type": "homestay",
+    "badge": "Preferred",
+    "image":
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  }
+]
+}
