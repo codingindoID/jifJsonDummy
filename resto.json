@@ -173,12 +173,12 @@
     }
   ],
   "categories": [
-    "All",
     "Indonesian Food",
     "Seafood & Grill",
     "Coffee & Pastry",
     "Western Food",
     "Japanese Cuisine",
     "Street Food"
-  ]
+  ],
+  "menusCategories": ["Promo", "Best Seller", "Food", "Drinks", "Package"]
 }
