@@ -171,5 +171,14 @@
       "category": "Food",
       "ingredients": "Squid, Secret Flour, Chili Sauce."
     }
+  ],
+  "categories": [
+    "All",
+    "Indonesian Food",
+    "Seafood & Grill",
+    "Coffee & Pastry",
+    "Western Food",
+    "Japanese Cuisine",
+    "Street Food"
   ]
 }
