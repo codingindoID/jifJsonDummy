@@ -5,180 +5,75 @@
       "name": "Warung Makan Mbak In",
       "cover_image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80",
       "category": "Indonesian Food",
-      "rating": 4.8,
-      "reviews": 124,
       "description": "Authentic Javanese cuisine with a modern twist. Famous for its Special Savory Rice and smashed chicken.",
       "address": "Jl. Pemuda No. 123, Jepara, Central Java",
       "opening_hours": "09:00 - 21:00",
-      "is_partner": true,
-      "promo": "Buy 1 Get 1 on All Drinks",
-      "coords": { "lat": -6.5891, "lng": 110.6789 },
-      "distance": "1.2 km"
+      "is_partner": true
     },
     {
       "id": 2,
       "name": "Jepara Sea View Resto",
       "cover_image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
       "category": "Seafood & Grill",
-      "rating": 4.9,
-      "reviews": 256,
       "description": "Fresh seafood caught daily with a stunning view of the Java Sea.",
       "address": "Kartini Beach Area, Jepara",
       "opening_hours": "11:00 - 22:00",
-      "is_partner": true,
-      "promo": "20% Discount for JIF Attendees",
-      "coords": { "lat": -6.592, "lng": 110.665 },
-      "distance": "2.5 km"
+      "is_partner": true
     },
     {
       "id": 3,
       "name": "Kopi Senja Utama",
       "cover_image": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80",
       "category": "Coffee & Pastry",
-      "rating": 4.7,
-      "reviews": 89,
       "description": "Best specialty coffee in town with cozy atmosphere for remote working.",
       "address": "Jl. Kartini No. 45, Jepara",
       "opening_hours": "08:00 - 23:00",
-      "is_partner": true,
-      "promo": "Free Croissant for every Large Coffee",
-      "coords": { "lat": -6.585, "lng": 110.675 },
-      "distance": "0.8 km"
-    },
-    {
-      "id": 4,
-      "name": "Steak House 21",
-      "cover_image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80",
-      "category": "Western Food",
-      "rating": 4.6,
-      "reviews": 112,
-      "description": "Premium Australian Wagyu steak with various homemade sauces.",
-      "address": "Jl. Ahmad Yani No. 88, Jepara",
-      "opening_hours": "12:00 - 22:00",
-      "is_partner": true,
-      "promo": null,
-      "coords": { "lat": -6.59, "lng": 110.67 },
-      "distance": "3.1 km"
-    },
-    {
-      "id": 5,
-      "name": "Sushi Tei Jepara",
-      "cover_image": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?auto=format&fit=crop&w=800&q=80",
-      "category": "Japanese Cuisine",
-      "rating": 4.8,
-      "reviews": 178,
-      "description": "Authentic sushi experience with fresh ingredients and modern presentation.",
-      "address": "Mall Jepara 1st Floor",
-      "opening_hours": "10:00 - 21:00",
-      "is_partner": true,
-      "promo": "Special Roll 50% Off",
-      "coords": { "lat": -6.595, "lng": 110.68 },
-      "distance": "1.5 km"
-    },
-    {
-      "id": 6,
-      "name": "Bakso Beranak Mercon",
-      "cover_image": "https://images.unsplash.com/photo-1593560708920-61dd98c46a4e?auto=format&fit=crop&w=800&q=80",
-      "category": "Street Food",
-      "rating": 4.5,
-      "reviews": 342,
-      "description": "Viral spicy meatball with various fillings. Not for the faint of heart!",
-      "address": "Pasar Wage Jepara",
-      "opening_hours": "10:00 - 18:00",
-      "is_partner": true,
-      "promo": null,
-      "coords": { "lat": -6.58, "lng": 110.685 },
-      "distance": "4.2 km"
+      "is_partner": true
     }
   ],
-  "menus": [
+  "galleries": [
     {
-      "id": 101,
+      "id": 1,
       "restaurant_id": 1,
       "name": "Special Savory Rice",
       "description": "Rich Javanese savory rice served with shredded chicken, spiced egg, and chayote squash stew.",
-      "image": "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?auto=format&fit=crop&w=500&q=80",
-      "price": 35000,
-      "discount_price": 28000,
-      "category": "Food",
-      "is_best_seller": true,
-      "ingredients": "Savory Rice, Shredded Chicken, Spiced Egg, Chayote, Areh."
+      "image": "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?auto=format&fit=crop&w=500&q=80"
     },
     {
-      "id": 102,
+      "id": 2,
       "restaurant_id": 1,
       "name": "Green Chili Smashed Chicken",
       "description": "Tender fried chicken with deep spices served with spicy green chili sambal.",
-      "image": "https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&w=500&q=80",
-      "price": 25000,
-      "discount_price": null,
-      "category": "Food",
-      "is_best_seller": true,
-      "ingredients": "Chicken, Green Chili Sambal, Fresh Veggies, Tofu, Tempeh."
+      "image": "https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&w=500&q=80"
     },
     {
-      "id": 103,
+      "id": 3,
       "restaurant_id": 1,
       "name": "Legacy Ice Dawet",
       "description": "Refreshing traditional drink with jelly, coconut milk, and original palm sugar.",
-      "image": "https://images.unsplash.com/photo-1553909489-cd47e0907980?auto=format&fit=crop&w=500&q=80",
-      "price": 15000,
-      "discount_price": 10000,
-      "category": "Drinks",
-      "ingredients": "Coconut Milk, Palm Sugar, Jelly, Ice."
+      "image": "https://images.unsplash.com/photo-1553909489-cd47e0907980?auto=format&fit=crop&w=500&q=80"
     },
     {
-      "id": 104,
+      "id": 4,
       "restaurant_id": 1,
-      "name": "Chicken Satay Madura",
-      "description": "10 skewers of selected chicken with thick Madura-style peanut sauce.",
-      "image": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?auto=format&fit=crop&w=500&q=80",
-      "price": 30000,
-      "discount_price": 25000,
-      "category": "Best Seller",
-      "ingredients": "Chicken, Peanut Sauce, Rice Cake, Fried Shallots."
+      "name": "Interior View",
+      "description": "Our cozy and authentic Javanese style dining area.",
+      "image": "https://images.unsplash.com/photo-1552566626-52f8b828add9?auto=format&fit=crop&w=800&q=80"
     },
     {
-      "id": 105,
-      "restaurant_id": 1,
-      "name": "Couple Meal Package",
-      "description": "2 White Rice + 2 Fried Chicken + 2 Sweet Ice Tea.",
-      "image": "https://images.unsplash.com/photo-1547573854-74d2a71d0827?auto=format&fit=crop&w=500&q=80",
-      "price": 65000,
-      "discount_price": 50000,
-      "category": "Package",
-      "ingredients": "Fried Chicken, Rice, Ice Tea."
-    },
-    {
-      "id": 201,
+      "id": 5,
       "restaurant_id": 2,
       "name": "Grilled Lobster Jimbaran",
       "description": "Large fresh lobster grilled with special Jimbaran island spices.",
-      "image": "https://images.unsplash.com/photo-1559742811-82410b59bcc0?auto=format&fit=crop&w=500&q=80",
-      "price": 150000,
-      "discount_price": 120000,
-      "category": "Best Seller",
-      "ingredients": "Lobster 500g, Jimbaran Spices, Sambal Matah."
+      "image": "https://images.unsplash.com/photo-1559742811-82410b59bcc0?auto=format&fit=crop&w=500&q=80"
     },
     {
-      "id": 202,
+      "id": 6,
       "restaurant_id": 2,
       "name": "Crispy Fried Squid",
       "description": "Fresh squid coated in crispy and savory flour batter.",
-      "image": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?auto=format&fit=crop&w=500&q=80",
-      "price": 45000,
-      "discount_price": null,
-      "category": "Food",
-      "ingredients": "Squid, Secret Flour, Chili Sauce."
+      "image": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?auto=format&fit=crop&w=500&q=80"
     }
   ],
-  "categories": [
-    "Indonesian Food",
-    "Seafood & Grill",
-    "Coffee & Pastry",
-    "Western Food",
-    "Japanese Cuisine",
-    "Street Food"
-  ],
-  "menusCategories": ["Promo", "Best Seller", "Food", "Drinks", "Package"]
+  "categories": ["Indonesian Food", "Seafood & Grill", "Coffee & Pastry"]
 }
